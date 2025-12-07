@@ -4,4 +4,4 @@
 &nbsp;`AOC_SESSION_ID='{YOUR_SESSION_ID}'`
 
 2. Save the input as a .txt file, run: \
-&nbsp;`python get_input_data.py {DAY}`
+&nbsp;`python get_input_data.py {YEAR} {DAY}`
