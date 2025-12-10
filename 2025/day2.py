@@ -1,4 +1,4 @@
-# Run with: python day{#}.py {INPUT_PATH}, eg. python 2025/day1.py input/2025/day2.txt
+# Run with: python day{#}.py {INPUT_PATH}, eg. python 2025/day2.py input/2025/day2.txt
 import sys
 data = ''
 with open(sys.argv[1],'r') as f:
