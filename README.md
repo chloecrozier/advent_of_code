@@ -2,7 +2,7 @@
 
 1. Get your AoC session ID after logging in: \
 &nbsp; `Inspect Element -> Application -> Cookies -> Session`
-![{Location of session ID}](aoc_session_id.png?raw=true)
+![{Location of session ID}](session_id.png?raw=true)
 
 2. Set your AoC your session ID as a variable in an .env file: \
 &nbsp;`AOC_SESSION_ID='{YOUR_SESSION_ID}'`
