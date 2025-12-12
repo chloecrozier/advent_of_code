@@ -11,4 +11,4 @@
 &nbsp;`python get_input_data.py {YEAR} {DAY}`
 
 4. Run your solution script with the input data: \
-&nbsp;`python day{#}.py {INPUT_PATH}`
+&nbsp;`python {YEAR}/day{#}.py {INPUT_PATH}`

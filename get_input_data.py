@@ -20,4 +20,4 @@ else:
         os.makedirs(f'{os.getcwd()}/input/{sys.argv[1]}/', exist_ok=True)
     input_file = open(f'input/{sys.argv[1]}/day{sys.argv[2]}.txt', 'w')
     input_file.write(page.text)
-    print(f'Input data saved to {sys.argv[2]}/day{sys.argv[2]}.txt!')
+    print(f'Input data saved to {sys.argv[1]}/day{sys.argv[2]}.txt!')
