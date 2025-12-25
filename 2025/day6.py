@@ -1,4 +1,4 @@
-# Run with: python day{#}.py {INPUT_PATH}, eg. python 2025/day5.py input/2025/day5.txt
+# Run with: python day{#}.py {INPUT_PATH}, eg. python 2025/day6.py input/2025/day6.txt
 import sys
 import re
 data = (open(sys.argv[1], 'r')).readlines()
