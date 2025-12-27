@@ -2,12 +2,15 @@
 import sys
 import re
 data = (open(sys.argv[1], 'r')).readlines()
-splits = [0] * len(data[0])
-splits[data[0].index('S')] = 1
+beams = [0] * len(data[0])
+beams[data[0].index('S')] = 1
 
-print(splits)
+print(beams)
 
 for i in range(1, len(data)):
+    splitters = data[i].count('^')
+    for j in range data[i].count('^'):
+        if beams[data[i].index()]
     print(i)
 # nums1 = []
 # for i in range(len(data) - 1):
